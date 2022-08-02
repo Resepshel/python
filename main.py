@@ -1,10 +1,10 @@
-# print('Задание 1:')
-# a = input('Введите слово: ')
-# b = int(input('Введите число: '))
-# c = float(input('Введите дробь: '))
-# print(a)
-# print(b)
-# print(c)
+print('Задание 1:')
+a = input('Введите слово: ')
+b = int(input('Введите число: '))
+c = float(input('Введите дробь: '))
+print(a)
+print(b)
+print(c)
 
 
 print('\nЗадание 2:')
