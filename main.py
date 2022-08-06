@@ -1,10 +1,10 @@
-# print('Задание 1:')
-# a = input('Введите слово: ')
-# b = int(input('Введите число: '))
-# c = float(input('Введите дробь: '))
-# print(a)
-# print(b)
-# print(c)
+print('Задание 1:')
+a = input('Введите слово: ')
+b = int(input('Введите число: '))
+c = float(input('Введите дробь: '))
+print(a)
+print(b)
+print(c)
 
 
 print('\nЗадание 2:')
@@ -39,7 +39,6 @@ print(z)
 print('\nЗадание 5 и 6:')
 a = int(input('Введите значение выручки: '))
 b = int(input('Введите значение издержек: '))
-c = -1
 if a > b:
     c = a - b
     print(f'Ваша прибыль составляет: {c}')
